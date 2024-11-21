@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLops/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/2c31002272874b30bc16da84a54085cd/artifacts
+end_time: 1732202780676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c31002272874b30bc16da84a54085cd
+run_name: silent-conch-755
+run_uuid: 2c31002272874b30bc16da84a54085cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732202776913
+status: 3
+tags: []
+user_id: user

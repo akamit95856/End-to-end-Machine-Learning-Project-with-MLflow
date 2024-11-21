@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLops/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/4ba73801ccdb492590d26c14cc1c1053/artifacts
+end_time: 1732201344323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ba73801ccdb492590d26c14cc1c1053
+run_name: peaceful-gnu-633
+run_uuid: 4ba73801ccdb492590d26c14cc1c1053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732201338456
+status: 4
+tags: []
+user_id: user

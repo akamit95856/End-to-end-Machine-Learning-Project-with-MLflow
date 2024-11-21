@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLops/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/d5dfd4f36d1c402d924522f93d8c95fd/artifacts
+end_time: 1732201603328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5dfd4f36d1c402d924522f93d8c95fd
+run_name: glamorous-slug-753
+run_uuid: d5dfd4f36d1c402d924522f93d8c95fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732201598593
+status: 3
+tags: []
+user_id: user

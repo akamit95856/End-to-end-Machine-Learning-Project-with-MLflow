@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLops/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/1e46be75a9904c659822cc7b7ec01e0c/artifacts
+end_time: 1732200593510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e46be75a9904c659822cc7b7ec01e0c
+run_name: colorful-dove-496
+run_uuid: 1e46be75a9904c659822cc7b7ec01e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732200589917
+status: 4
+tags: []
+user_id: user

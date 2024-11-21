@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLops/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/637d1ab16fb949aa8106ec0f7ca86865/artifacts
+end_time: 1732200512692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 637d1ab16fb949aa8106ec0f7ca86865
+run_name: glamorous-gnat-418
+run_uuid: 637d1ab16fb949aa8106ec0f7ca86865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732200509021
+status: 4
+tags: []
+user_id: user
