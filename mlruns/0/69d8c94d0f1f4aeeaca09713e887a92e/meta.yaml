@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLops/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/69d8c94d0f1f4aeeaca09713e887a92e/artifacts
+end_time: 1732289513812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69d8c94d0f1f4aeeaca09713e887a92e
+run_name: gaudy-gnu-415
+run_uuid: 69d8c94d0f1f4aeeaca09713e887a92e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732289505375
+status: 3
+tags: []
+user_id: user
